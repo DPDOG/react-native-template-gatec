@@ -1,0 +1,29 @@
+{
+  "name": "react-native-template-gatec",
+  "version": "1.0.0",
+  "description": "Um template para React Native da GAtec",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "files": [
+    "template",
+    "template.config.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GatecMobile/react-native-template-gatec"
+  },
+  "keywords": [
+    "react-native",
+    "typescript",
+    "jest",
+    "template",
+    "boilerplate"
+  ],
+  "author": "GatecMobile",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GatecMobile/react-native-template-gatec/issues"
+  },
+  "homepage": "https://github.com/GatecMobile/react-native-template-gatec#readme"
+}
