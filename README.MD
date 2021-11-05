@@ -90,7 +90,7 @@ This project exists thanks to all the people who contribute.
 
 <div align="center" >
 
-<a href="https://github.com/vicentexd"><img src="https://avatars.githubusercontent.com/u/53430760?v=4" width="200px"  alt="Gabriel Vicente" /></a><a href="https://github.com/fontanettiwilliam"><img src="https://avatars.githubusercontent.com/u/11983421?v=4" width="200px"  alt="William Fontanetti" /></a><a href="https://github.com/kazankay"><img src="https://avatars.githubusercontent.com/u/37197065?v=4" width="200px"  alt="Matheus Costa Francisco" /></a><a href="https://github.com/carlostrevisan1"><img src="https://avatars.githubusercontent.com/u/56885047?v=4" width="200px"  alt="Carlos Trevisan" /></a><a href="https://github.com/gianseneda"><img src="https://avatars.githubusercontent.com/u/76222899?v=4" width="200px"  alt="Gian Seneda" /></a>
+<a href="https://github.com/vicentexd"><img src="https://avatars.githubusercontent.com/u/53430760?v=4" width="200px"  alt="Gabriel Vicente" /></a><a href="https://github.com/fontanettiwilliam"><img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/11983421?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="200px"  alt="William Fontanetti" /></a><a href="https://github.com/kazankay"><img src="https://avatars.githubusercontent.com/u/37197065?v=4" width="200px"  alt="Matheus Costa Francisco" /></a><a href="https://github.com/carlostrevisan1"><img src="https://avatars.githubusercontent.com/u/56885047?v=4" width="200px"  alt="Carlos Trevisan" /></a><a href="https://github.com/gianseneda"><img src="https://avatars.githubusercontent.com/u/76222899?v=4" width="200px"  alt="Gian Seneda" /></a>
 
 </div>
 
