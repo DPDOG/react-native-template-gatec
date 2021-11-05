@@ -88,16 +88,9 @@ If necessary you must change descriptions that are in the `<string>{DESCRIPTION_
 
 This project exists thanks to all the people who contribute.
 
-<div style="display: flex; flex-directon: row;  justify-content: space-between" >
-<a href="https://github.com/vicentexd"><img src="https://avatars.githubusercontent.com/u/53430760?v=4" width="200px" style="border-radius: 100px" alt="Gabriel Vicente" /></a>
+<div align="center" >
 
-<a href="https://github.com/fontanettiwilliam"><img src="https://avatars.githubusercontent.com/u/11983421?v=4" width="200px" style="border-radius: 100px" alt="William Fontanetti" /></a>
-
-<a href="https://github.com/kazankay"><img src="https://avatars.githubusercontent.com/u/37197065?v=4" width="200px" style="border-radius: 100px" alt="Matheus Costa Francisco" /></a>
-
-<a href="https://github.com/carlostrevisan1"><img src="https://avatars.githubusercontent.com/u/56885047?v=4" width="200px" style="border-radius: 100px" alt="Carlos Trevisan" /></a>
-
-<a href="https://github.com/gianseneda"><img src="https://avatars.githubusercontent.com/u/76222899?v=4" width="200px" style="border-radius: 100px" alt="Gian Seneda" /></a>
+<a href="https://github.com/vicentexd"><img src="https://avatars.githubusercontent.com/u/53430760?v=4" width="200px" style="border-radius: 100px" alt="Gabriel Vicente" /></a><a href="https://github.com/fontanettiwilliam"><img src="https://avatars.githubusercontent.com/u/11983421?v=4" width="200px" style="border-radius: 100px" alt="William Fontanetti" /></a><a href="https://github.com/kazankay"><img src="https://avatars.githubusercontent.com/u/37197065?v=4" width="200px" style="border-radius: 100px" alt="Matheus Costa Francisco" /></a><a href="https://github.com/carlostrevisan1"><img src="https://avatars.githubusercontent.com/u/56885047?v=4" width="200px" style="border-radius: 100px" alt="Carlos Trevisan" /></a><a href="https://github.com/gianseneda"><img src="https://avatars.githubusercontent.com/u/76222899?v=4" width="200px" style="border-radius: 100px" alt="Gian Seneda" /></a>
 
 </div>
 
