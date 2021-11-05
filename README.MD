@@ -5,7 +5,7 @@
 
 <div align="center">
 
-![React Native Gatec Template Typescript](https://badgen.net/badge/icon/typescript?icon=typescript&label) ![React Native Gatec Template Apple](https://badgen.net/badge/icon/apple?icon=apple&label) ![React Native Gatec Template Google](https://badgen.net/badge/icon/googleplay?icon=googleplay&label) ![React Native Gatec Template React](https://badgen.net/github/release/GatecMobile/react-native-template-gatec)
+![React Native Gatec Template Typescript](https://badgen.net/badge/icon/typescript?icon=typescript&label) ![React Native Gatec Template Apple](https://badgen.net/badge/icon/apple?icon=apple&label) ![React Native Gatec Template Google](https://badgen.net/badge/icon/googleplay?icon=googleplay&label)
 
 </div>
 
