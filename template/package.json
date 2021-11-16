@@ -19,7 +19,7 @@
     "@react-navigation/native-stack": "^6.2.5",
     "@types/styled-components-react-native": "5.1.1",
     "axios": "^0.23.0",
-    "gatec-rn-framework": "^0.1.35",
+    "gatec-rn-framework": "^0.1.36",
     "react": "17.0.2",
     "react-native": "0.66.1",
     "react-native-camera": "4.2.1",
