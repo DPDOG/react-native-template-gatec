@@ -1,6 +1,6 @@
 {
   "name": "react-native-template-gatec-boilerplate",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Um template para React Native da GAtec",
   "scripts": {
     "test": "exit 0"
