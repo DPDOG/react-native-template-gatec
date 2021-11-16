@@ -19,7 +19,7 @@
     "@react-navigation/native-stack": "^6.2.5",
     "@types/styled-components-react-native": "5.1.1",
     "axios": "^0.23.0",
-    "gatec-rn-framework": "^0.1.36",
+    "gatec-rn-framework": "^1.0.0",
     "react": "17.0.2",
     "react-native": "0.66.1",
     "react-native-camera": "4.2.1",
@@ -43,6 +43,7 @@
     "react-native-swipe-list-view": "3.2.9",
     "react-native-tab-view": "3.1.1",
     "react-native-vector-icons": "9.0.0",
+    "realm": "^10.10.0",
     "styled-components": "4.4.1",
     "yup": "^0.32.11"
   },
