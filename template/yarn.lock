@@ -4384,10 +4384,10 @@ functional-red-black-tree@^1.0.1:
   resolved "https://registry.yarnpkg.com/functional-red-black-tree/-/functional-red-black-tree-1.0.1.tgz#1b0ab3bd553b2a0d6399d29c0e3ea0b252078327"
   integrity sha1-GwqzvVU7Kg1jmdKcDj6gslIHgyc=
 
-gatec-rn-framework@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/gatec-rn-framework/-/gatec-rn-framework-1.0.0.tgz#20e82afff3e570e51793dee951bab6125986664d"
-  integrity sha512-dk1/JeRQtxjA/k7ujNqFG2ZVXUAtvMGDnCJmcz7mUqPFZ8rvpB1vA5eBT7CWQLlhqc3OX36fnm2Clj1hUWVeLg==
+gatec-rn-framework@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/gatec-rn-framework/-/gatec-rn-framework-1.0.1.tgz#e2f230f5a75c36ee646e24e419779251ace935ef"
+  integrity sha512-M8vS6dU6I09rdGl3MJv2EFawgLg+Pr+q2VFNkkr146xZ1WRk2QgMsYhHsKOlWl5RXubiImUvcvXSHdfSj804GA==
   dependencies:
     "@react-native-async-storage/async-storage" "^1.15.9"
     "@react-native-community/checkbox" "^0.5.8"
